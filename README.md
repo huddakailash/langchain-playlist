@@ -18,3 +18,4 @@ This copies the repo into a new folder, adds it to the list below, commits and p
 - [langchain-structured-output](langchain-structured-output/) — source: https://github.com/campusx-official/langchain-structured-output
 - [langchain-output-parsers](langchain-output-parsers/) — source: https://github.com/campusx-official/langchain-output-parsers
 - [langchain-chains](langchain-chains/) — source: https://github.com/campusx-official/langchain-chains
+- [langchain-runnables](langchain-runnables/) — source: https://github.com/campusx-official/langchain-runnables
