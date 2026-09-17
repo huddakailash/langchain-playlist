@@ -14,3 +14,4 @@ This copies the repo into a new folder, adds it to the list below, commits and p
 ## Contents
 
 - [langchain-models](langchain-models/) — source: https://github.com/campusx-official/langchain-models
+- [langchain-prompts](langchain-prompts/) — source: https://github.com/campusx-official/langchain-prompts
