@@ -15,3 +15,4 @@ This copies the repo into a new folder, adds it to the list below, commits and p
 
 - [langchain-models](langchain-models/) — source: https://github.com/campusx-official/langchain-models
 - [langchain-prompts](langchain-prompts/) — source: https://github.com/campusx-official/langchain-prompts
+- [langchain-structured-output](langchain-structured-output/) — source: https://github.com/campusx-official/langchain-structured-output
